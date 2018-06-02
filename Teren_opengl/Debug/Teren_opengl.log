@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\surface\desktop\programowanie\opengl\teren_opengl\teren_opengl\źródło.cpp(112): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\surface\desktop\programowanie\opengl\teren_opengl\teren_opengl\źródło.cpp(208): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+c:\users\surface\desktop\programowanie\opengl\teren_opengl\teren_opengl\źródło.cpp(209): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+LINK : fatal error LNK1104: nie można otworzyć pliku „freeglut.h”
